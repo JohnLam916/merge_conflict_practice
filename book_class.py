@@ -30,5 +30,5 @@ class Booklist():
 		# print sorted titles
 		return(titles)
 
-		def remove_title(self, title):
-			self.books.remove(title)
+	def remove_title(self, title):
+		self.books.remove(title)
